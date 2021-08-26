@@ -31,14 +31,6 @@ brownie run [name script] [blockchain network] [account name]
 ```
 please see how to [run script](https://eth-brownie.readthedocs.io/en/stable/quickstart.html)
 
-## Testing
-
-To run the tests:
-
-```bash
-brownie test
-```
-
 The unit tests included in this mix are very generic and should work with any ERC20 compliant smart contract. To use them in your own project, all you must do is modify the deployment logic in the [`tests/conftest.py::token`](tests/conftest.py) fixture.
 
 ## Resources
