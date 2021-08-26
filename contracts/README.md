@@ -1,5 +1,5 @@
 # TOKEN INFO EDFS SMART CONTRACT
-EDFS es un estandar ERC20 basado en las bibliotecas de [openzeppellin](https://docs.openzeppelin.com/contracts/4.x/erc20)
+EDFS is an ERC20 standard based on the [openzeppellin libraries] (https://docs.openzeppelin.com/contracts/4.x/erc20).
 
 * **Name**: EDFS
 * **Symbol**: EDFS
